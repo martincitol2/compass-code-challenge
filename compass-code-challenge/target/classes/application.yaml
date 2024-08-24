@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: code.challenge
-compass-code-config:
-  highAmountOfMatches: 4
-  mediumAmountOfMatches: 3
